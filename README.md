@@ -1,8 +1,4 @@
-The `README.md` I provided in the previous response is already in the standard GitHub Markdown format, ready for direct copy-pasting.
 
-Here is the entire content again, including the code fences for the shell commands, exactly as you would paste it into a `README.md` file on GitHub:
-
-````markdown
 # 💻 Frontend Assignment – Pixel-Perfect Figma Implementation
 
 This project is a pixel-perfect, component-driven implementation of the provided Frontend Assignment Figma design. It faithfully reproduces the visual layout, typography, spacing, and interactions as required for the evaluation.
