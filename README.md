@@ -1,11 +1,11 @@
 
-# 💻 Frontend Assignment – Pixel-Perfect Figma Implementation
+# Frontend Assignment – Pixel-Perfect Implementation
 
 This project is a pixel-perfect, component-driven implementation of the provided Frontend Assignment Figma design. It faithfully reproduces the visual layout, typography, spacing, and interactions as required for the evaluation.
 
 The final application is deployed and can be viewed live at:
 
-## 🚀 Live Demo
+## Live Demo
 **URL:** [https://frontend-assignment-wedcomp.vercel.app/](https://frontend-assignment-wedcomp.vercel.app/)
 
 ---
@@ -140,6 +140,3 @@ To scope the project, the following assumptions were made:
 | **Total Time Spent** | **\~6.5 hours** |
 
 -----
-
-Would you like to add a section detailing the component file structure (e.g., `src/components/Navbar.tsx`)?
-```
